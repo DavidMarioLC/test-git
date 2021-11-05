@@ -1,1 +1,2 @@
 Agregando mi primera funcionalidad.
+Agregando mi segunda funcionalidad.
